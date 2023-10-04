@@ -1,7 +1,7 @@
 # Click the Colorful Shapes - A Simple JavaScript Game
-
+<center>
 <img src = "https://github.com/dilshantharu/Java-script-simple-game/blob/497244c77800d0e8bb22024da83dc00fc55d7c7e/images%20(1).jpeg" >
-
+</center>
 Welcome to the "Click the Colorful Shapes" JavaScript game repository! In this repository, you'll find a fun and straightforward JavaScript game where your objective is to click on colorful shapes as they appear on the screen. This game is perfect for beginners looking to practice their JavaScript skills or for anyone who just wants to have a bit of gaming fun.
 
 ## Getting Started
@@ -34,3 +34,6 @@ The "Click the Colorful Shapes" JavaScript game is open-source and available und
 ## Enjoy the Game
 
 We hope you enjoy playing this simple JavaScript game as much as we enjoyed creating it. Have fun, learn, and feel free to share your high scores with us. Happy clicking!
+
+
+# Coded by Tharusha Dilshan
